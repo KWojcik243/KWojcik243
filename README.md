@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![MasterHead](https://github.com/KWojcik243/KWojcik243/blob/main/banner.png)](https://github.com/KWojcik243)
 Find me:
+<img 
 <!--
 <a href="https://github.com/KWojcik243/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KWojcik243&count_private=true&theme=aura_dark"/>
