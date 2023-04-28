@@ -18,10 +18,10 @@ Beyond my professional pursuits, I lead an active and diverse personal life. In 
   <h3 align="center">My Stats:</h3> <br>
   <p align="center">
     <a align="center" href="https://github.com/KWojcik243/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=KWojcik243&count_private=true&theme=aura_dark"/>
+      <img align="center" style="width:450px;height:195px" src="https://github-readme-stats.vercel.app/api?username=KWojcik243&count_private=true&theme=aura_dark"/>
     </a>
     <a align="center" href="https://git.io/streak-stats">
-      <img align="center" src="https://streak-stats.demolab.com/?user=KWojcik243&theme=aura-dark"/>
+      <img align="center" style="width:450px;height:195px" src="https://streak-stats.demolab.com/?user=KWojcik243&theme=aura-dark"/>
     </a>
   </p>
 </p>
